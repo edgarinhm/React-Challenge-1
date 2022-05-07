@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.cards {
+  margin: none;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  background-color: papayawhip;
+}
+.cards-title {
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.cards-body {
+  font-size: 1rem;
+}
+
+.cards-footer a {
+  text-decoration: none;
+}
